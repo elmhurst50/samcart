@@ -1,0 +1,21 @@
+{
+    "name": "samjoyce777/samcart",
+    "description": "Simple PHP shopping cart",
+    "version": "0.0.1",
+    "type": "git",
+    "homepage": "http://samjoyce.co.uk",
+    "time": "2014-03",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Joyce",
+            "email": "samjoyce777@gmail.com",
+            "homepage": "http://www.samjoyce.co.uk",
+            "role": "Developer"
+        }],
+    "autoload": {
+        "psr-0" : {
+            "samjoyce\\samcart" : "src"
+        }
+    }
+}
